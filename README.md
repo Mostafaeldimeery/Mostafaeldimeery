@@ -28,6 +28,14 @@
 
 ---
 
+
+### 📊 GitHub Stats
+
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostafaeldimeery&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafaeldimeery&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 📫 **Reach me at:**  
 📧 mostafaayman3406@gmail.com  
 🌐 [GitHub Profile](https://github.com/Mostafaeldimeery)
