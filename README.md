@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Mostafa Eldimeery
 
-<!--
-**Mostafaeldimeery/Mostafaeldimeery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student at RWTH Aachen University**  
+💻 Passionate about learning **Java** and **C**, and improving programming logic through small, practical projects.  
+🌍 Fluent in **Arabic**, **English**, and **German**.  
+📍 Based in Aachen, Germany.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+- 🎯 [**Guess the Number (Java)**](https://github.com/Mostafaeldimeery/guess-the-number-java) — Console game where players guess a secret number with difficulty levels.
+- ❌⭕ [**Tic Tac Toe (Java)**](https://github.com/Mostafaeldimeery/tic-tac-toe-java) — Playable console Tic-Tac-Toe (human vs human or vs simple AI).
+
+---
+
+### 🧠 What I’m Learning
+- Object-Oriented Programming (OOP)  
+- Data structures and algorithms  
+- Clean coding and software design principles  
+- Simple AI logic for games  
+
+---
+
+### 🎯 Goals
+- Build small projects that turn theory into practice  
+- Contribute to open-source beginner-friendly Java repositories  
+- Start freelancing to gain experience and improve my coding skills  
+
+---
+
+📫 **Reach me at:**  
+📧 mostafaayman3406@gmail.com  
+🌐 [GitHub Profile](https://github.com/Mostafaeldimeery)
